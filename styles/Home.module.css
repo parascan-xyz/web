@@ -1,5 +1,7 @@
 .container {
   padding: 0 2rem;
+  background-color: #e6007a;
+  color: white;
 }
 
 .main {
@@ -29,7 +31,7 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: #a2c3e9;
   text-decoration: none;
 }
 
@@ -42,7 +44,7 @@
 .title {
   margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 2rem;
 }
 
 .title,
